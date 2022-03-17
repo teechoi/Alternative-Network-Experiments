@@ -1,5 +1,5 @@
 # Layer-Two-Network-Experiments
-This repository contains code to perform experiments for Layer 2 Blockchains for Decentralized IoT Systems Research Paper
+This repository contains code to perform experiments for Layer 2 Blockchains.
 
 In order to run the experiment code, please download the zip file and refer to the provided PDF documents. <br />
 The Part 1 document will walk you through on how to create and deploy your own smart contract on the Layer 1 Ropsten test network. <br />
